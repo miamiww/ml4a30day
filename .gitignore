@@ -2,5 +2,9 @@
 venv
 pix2pix-tensorflow
 Instagram*
+fast-style-transfer
+colorization
+
+outside_repos
 
 *.png
