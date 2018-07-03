@@ -1,3 +1,6 @@
 .DS_Store
 venv
 pix2pix-tensorflow
+Instagram*
+
+*.png
