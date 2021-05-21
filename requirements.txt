@@ -81,7 +81,7 @@ spell==0.14.1
 spinners==0.0.19
 tabulate==0.8.2
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.5.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
